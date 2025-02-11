@@ -1,7 +1,10 @@
 # Dashboard Billetera 2024
 # 💼 Dashboard de Gastos Personales 2024 | Power BI  
 
-<img src="Ejercicio Billetera 2024.png" width="400" height="250" alt="Dashboard">
+<p align="center">
+  <img src="Ejercicio Billetera 2024.png">
+</p>
+
 📊 **Resumen interactivo** de mis finanzas personales durante el año 2024, creado para analizar patrones de gasto y optimizar el ahorro.  
 
 ---
