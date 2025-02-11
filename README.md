@@ -15,7 +15,7 @@
    - Corrección de inconsistencias en fechas, montos y categorías.  
 
 ✅ **Cálculos DAX personalizados**:  
-   - Gasto Mensual Promedio = 
+   - Gasto Mensual Promedio 
    - Cantidad de compras 
    - Precio promedio de cada compra 
 
