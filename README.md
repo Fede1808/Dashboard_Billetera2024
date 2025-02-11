@@ -11,16 +11,16 @@
 
 ## 🚀 Características clave  
 ✅ **Limpieza avanzada de datos**:  
-   - Normalización de +4,900 transacciones desde múltiples fuentes (bancos, tarjetas, efectivo).  
+   - Normalización de +4,900 transacciones..  
    - Corrección de inconsistencias en fechas, montos y categorías.  
 
 ✅ **Cálculos DAX personalizados**:  
-   - `Gasto Mensual Promedio = 2.1M`  
-   - `Variación vs Mes Anterior` (fórmula dinámica)  
-   - Segmentación inteligente por categoría/método de pago.  
+   - Gasto Mensual Promedio = 
+   - Cantidad de compras 
+   - Precio promedio de cada compra 
 
 ✅ **Visualizaciones reveladoras**:  
-   - 📈 Tendencias mensuales con alertas de presupuesto excedido.  
-   - 🧩 Heatmap de días con mayor gasto.  
+   - 📈 Tendencias de gasto mensuales.  
+   - 🧩 Grafico de torta de tipo de pago.  
    - � TOP 5 categorías de consumo (Restaurantes, Transporte, Ocio).  
 
